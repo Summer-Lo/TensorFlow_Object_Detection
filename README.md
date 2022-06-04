@@ -49,4 +49,4 @@ Tensorboard will be accessible through your browser and you will be able to see 
 
 ## Useful link and information
 1. TensorFlow version and required hardware and software version
-```https://www.tensorflow.org/install/source```
+'''https://www.tensorflow.org/install/source'''
